@@ -157,9 +157,13 @@ img {
 .brief-description {
 	font-size: 2em;
 }
-.sixth-heghlight-wrapper .description-wraper {
+/* .sixth-heghlight-wrapper .description-wraper {
 	max-width: 250px;
 	margin: 7px auto;
+} */
+.sixth-heghlight-wrapper .description-wrapper {
+    max-width: 250px;
+    margin: 7px auto;
 }
 .description-wraper.white{
 	color: white;
