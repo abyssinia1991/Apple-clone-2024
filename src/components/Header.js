@@ -13,9 +13,7 @@ function Header() {
               type="button"
               data-toggle="collapse"
               data-target=".navbar-collapse"
-            >
-              
-            </button>
+            ></button>
             <a className="navbar-brand mx-auto" href="#">
               <img src={appleLogo} />
             </a>
